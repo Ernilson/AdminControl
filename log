@@ -1,0 +1,10 @@
+Pendencias
+
+1- inserir o drawer e o menu para fazer a seleção de paginas
+2- fazer validação dos envios Empty na aba cantina e oração
+
+-----------------------------------------------------------------
+expo build:android -t apk
+https://expo.io/turtle-status
+https://expo.io/settings/services
+https://expo.io/artifacts/f4884dbf-a9f0-43f9-831f-0637ddac6a1d
